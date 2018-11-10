@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ventanas</string>
+    <string name="ventana1">Window 1</string>
+    <string name="ventana2">Window 2</string>
+    <string name="Boto1">Ir a Window 1</string>
+    <string name="Boto2">Ir a Window 2</string>
+</resources>
